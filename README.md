@@ -1,2 +1,6 @@
 # HelloWorld
-第一次正式使用github！
+public class Hello{
+  public static void main(String[] args){
+    System.out.print("你好世界！");
+  }
+}
